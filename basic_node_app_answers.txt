@@ -1,0 +1,13 @@
+### Questions
+
+1. What is a Node module?
+
+A reusable piece of code that you can bring into your app.
+
+2. What is the main difference between exports and module.exports?
+
+Exports is a reference to the module.exports object.
+
+3. Why is using exports recommended?
+
+Exports is recommended for the freedom of the shape of the object. Module.exports is for more specific designs.
